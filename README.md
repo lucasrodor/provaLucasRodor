@@ -14,3 +14,7 @@ linkedin: https://www.linkedin.com/in/laertejt/ \
 site: https://laboratoriodefinancas.com 
 
 ## Aluno
+Lucas Gomes da Siva Rodor\
+email: lucasgomessr10@gmail.com
+linkedin: www.linkedin.com/in/lucasrodor
+github: https://github.com/lucasrodor
